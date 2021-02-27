@@ -10,7 +10,7 @@
 - 音乐
 - 句子
 
-![流行](images/H2pvFfB1g4czibZ.png)
+![流行](https://i.loli.net/2021/02/27/sLgtyGOkhxnpEQP.png)
 
 
 
@@ -22,7 +22,7 @@
 - 点赞
 - 评论
 
-![书籍](images/j1pNHa9cWVM5i2h.png)
+![书籍](https://i.loli.net/2021/02/27/3zSTpahXEjg8yWD.png)
 
 
 
@@ -30,7 +30,7 @@
 
 - 展示我的收藏
 
-![5.png](images/satdyCw3iUcuSfr.png)
+![喜欢](https://i.loli.net/2021/02/27/w4e2pvgbH5YTRNa.png)
 
 
 
