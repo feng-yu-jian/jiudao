@@ -36,10 +36,6 @@
 
 
 
-
-
-[![img](https://github.com/lhzjoker/blink/raw/master/jiudao/1.png)](https://github.com/lhzjoker/blink/blob/master/jiudao/1.png)
-
 ## 组件
 
 - 自定义组件的使用大大提高了我们开发的效率，使代码可以复用，不写重复的代码等等
