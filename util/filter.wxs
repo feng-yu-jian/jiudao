@@ -1,0 +1,19 @@
+// wxs用 ES5 来写
+
+var format = function (text) {
+  if (!text) {
+    return
+  }
+  // 每个 \ 都需要通过 \ 转义字符   原始数据(\\n) 第一个\为转义字符，所以要把这两个一起转换
+  var reg = getRegExp('\\\\n', 'g')
+  return text.replace(reg, '\n&nbsp;&nbsp;&nbsp;&nbsp;')
+}
+
+var limit = function(array, length) {
+  return array.slice(0, length)
+}
+
+module.exports = {
+  format: format,
+  limit: limit
+}
